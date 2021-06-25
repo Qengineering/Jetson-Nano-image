@@ -26,11 +26,13 @@
 
 ## Pre-installed frameworks.
 
+- [JetPack 4.5.1](https://developer.nvidia.com/embedded/jetpack)
 - [OpenCV](https://qengineering.eu/deep-learning-with-opencv-on-raspberry-pi-4.html) 4.5.1
 - [TensorFLow](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 2.4.1
 - [TensorFlow Addons](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 0.13.0-dev
 - [Pytorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.0
 - [TorchVision](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 0.9.0
+- [JTOP](https://github.com/rbonghi/jetson_stats)
 
 ------------
 
