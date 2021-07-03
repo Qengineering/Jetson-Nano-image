@@ -8,7 +8,7 @@
 ## Installation.
 
 - Get a 32 GB (minimal) SD-card which will hold the image. 
-- Download the image (**13 GByte!**) from our [Mega](https://mega.nz/file/0pxzAAwC#EZ8bmTJf7HXPndncYGrNXyU8TloT7w6XaGcQzSRXT3o) site. (Please note that Mage.nz has limited the download time to approximately 3 hours. You need a fast internet connection)
+- Download the image (**13 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1yTT1jc533KXBCRFpduaOmj-xV6YujzAU/view?usp=sharing) site. 
 - Unzip the 7z file.
 - Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD card in your Jetson Nano and enjoy.
