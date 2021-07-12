@@ -8,7 +8,7 @@
 ## Installation.
 
 - Get a 32 GB (minimal) SD-card which will hold the image. 
-- Download the image (**13 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1yTT1jc533KXBCRFpduaOmj-xV6YujzAU/view?usp=sharing) site. 
+- Download the image (**7.8 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1yTT1jc533KXBCRFpduaOmj-xV6YujzAU/view?usp=sharing) site. 
 - Unzip the 7z file.
 - Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD card in your Jetson Nano and enjoy.
@@ -19,8 +19,7 @@
 ## Tips.
 
 * If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD card. There are no longer needed since all libraries are placed in the /usr/ directory.
-* Use a tool like [GParted](https://gparted.org/) `sudo apt-get install gparted` to expand the image to larger SD cards. To minimize disk space, we reduced the image to 21 GB. You need to extend this partition to the size of your SD card. We recommend a minimum of 64 GB. Deep learning simply requires a lot of space.<br/><br/>
-![output image]( https://qengineering.eu/images/GParted.webp )
+* Use a tool like [GParted](https://gparted.org/) `sudo apt-get install gparted` to expand the image to larger SD cards. We recommend a minimum of 64 GB. Deep learning simply requires a lot of space.<br/><br/>
 
 ------------
 
@@ -30,9 +29,12 @@
 - [OpenCV](https://qengineering.eu/deep-learning-with-opencv-on-raspberry-pi-4.html) 4.5.2
 - [TensorFLow](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 2.4.1
 - [TensorFlow Addons](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 0.13.0-dev
-- [Pytorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.0
-- [TorchVision](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 0.9.0
+- [Pytorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.1
+- [TorchVision](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 0.9.1
 - [JTOP](https://github.com/rbonghi/jetson_stats) 3.1.0
+
+![output image]( https://qengineering.eu/images/Software_Jetson.png )<br/><br/>
+![output image]( https://qengineering.eu/images/JTOP_jetson.png )
 
 ------------
 
