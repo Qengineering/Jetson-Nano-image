@@ -8,7 +8,7 @@
 ## Installation.
 
 - Get a 32 GB (minimal) SD-card which will hold the image. 
-- Download the image (**7.8 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1yTT1jc533KXBCRFpduaOmj-xV6YujzAU/view?usp=sharing) site. 
+- Download the image (**7.8 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1DGOHLwkUuzQrOprATgIyTUanV-59s6Rj/view?usp=sharing) site. 
 - Unzip the 7z file.
 - Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD card in your Jetson Nano and enjoy.
