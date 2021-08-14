@@ -8,7 +8,7 @@
 ## Installation.
 
 - Get a 32 GB (minimal) SD-card which will hold the image. 
-- Download the image (**10.7 GByte!**) from our [Gdrive](https://drive.google.com/file/d/191IHP0lb_ya9Rfbs4TkwD4qOSxNV7F_r/view?usp=sharing) site. 
+- Download the image (**10.7 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1FFBFJPe-P0uL3oYlHCsWRzpLGZ_3oqAn/view?usp=sharing) site. 
 - Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD card in your Jetson Nano and enjoy.
 - Password: ***jetson***
@@ -24,13 +24,16 @@
 
 ## Pre-installed frameworks.
 
-- [JetPack](https://developer.nvidia.com/embedded/jetpack) 4.5.1
-- [OpenCV](https://qengineering.eu/deep-learning-with-opencv-on-raspberry-pi-4.html) 4.5.2
+- [JetPack](https://developer.nvidia.com/embedded/jetpack) 4.6.0
+- [OpenCV](https://qengineering.eu/deep-learning-with-opencv-on-raspberry-pi-4.html) 4.5.3
 - [TensorFLow](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 2.4.1
 - [TensorFlow Addons](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 0.13.0-dev
 - [Pytorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.1
 - [TorchVision](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 0.9.1
-- [JTOP](https://github.com/rbonghi/jetson_stats) 3.1.0
+- [LibTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 
+- [ncnn](https://qengineering.eu/install-ncnn-on-jetson-nano.html)
+- [MNN](https://qengineering.eu/install-mnn-on-jetson-nano.html)
+- [JTOP](https://github.com/rbonghi/jetson_stats) 3.1.1
 
 ![output image]( https://qengineering.eu/images/Software_Jetson.png )<br/><br/>
 ![output image]( https://qengineering.eu/images/JTOP_jetson.png )
