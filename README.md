@@ -30,9 +30,9 @@
 - [TensorFlow Addons](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) 0.13.0-dev
 - [Pytorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.1
 - [TorchVision](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 0.9.1
-- [LibTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 
-- [ncnn](https://qengineering.eu/install-ncnn-on-jetson-nano.html)
-- [MNN](https://qengineering.eu/install-mnn-on-jetson-nano.html)
+- [LibTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.1 
+- [ncnn](https://qengineering.eu/install-ncnn-on-jetson-nano.html) 20210720
+- [MNN](https://qengineering.eu/install-mnn-on-jetson-nano.html) 1.2.1
 - [JTOP](https://github.com/rbonghi/jetson_stats) 3.1.1
 
 ![output image]( https://qengineering.eu/images/Software_Jetson.png )<br/><br/>
