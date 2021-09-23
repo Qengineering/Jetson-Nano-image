@@ -33,7 +33,8 @@
 - [LibTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) 1.8.1 
 - [ncnn](https://qengineering.eu/install-ncnn-on-jetson-nano.html) 20210720
 - [MNN](https://qengineering.eu/install-mnn-on-jetson-nano.html) 1.2.1
-- [JTOP](https://github.com/rbonghi/jetson_stats) 3.1.1)<br/><br/>
+- [JTOP](https://github.com/rbonghi/jetson_stats) 3.1.1 
+
 Tensorflow 2.5 and above require CUDA 11. CUDA version 11 cannot be installed on a Jetson Nano due to incompatibility between the GPU and low-level software at this time, hence Tensorflow 2.4.1. Only when NVIDIA releases a JetPack with CUDA 11 will we be able to upgrade Tensorflow.
 
 ![output image]( https://qengineering.eu/images/Software_Jetson.png )<br/><br/>
