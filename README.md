@@ -8,7 +8,7 @@
 ## Installation.
 
 - Get a 32 GB (minimal) SD-card which will hold the image. 
-- Download the image (**9.6 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1CSSN2VJiks-wP7aRan-ZQZYynLcBcWsa/view?usp=sharing) site. 
+- Download the image (**9.6 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1753wRCFUV7U6vJa3H5xC1cq5MIcGKwFm/view?usp=sharing) site. 
 - Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD card in your Jetson Nano **4 GB RAM** and enjoy.
 - Password: ***jetson***
@@ -34,6 +34,7 @@
 - [ncnn](https://qengineering.eu/install-ncnn-on-jetson-nano.html) 20210720
 - [MNN](https://qengineering.eu/install-mnn-on-jetson-nano.html) 1.2.1
 - [JTOP](https://github.com/rbonghi/jetson_stats) 3.1.1 
+- [TeamViewer aarch64](https://www.teamviewer.com/en/download/linux/) 15.24.5
 
 Tensorflow 2.5 and above require CUDA 11. CUDA version 11 cannot be installed on a Jetson Nano due to incompatibility between the GPU and low-level software at this time, hence Tensorflow 2.4.1. Only when NVIDIA releases a JetPack with CUDA 11 will we be able to upgrade Tensorflow.
 
