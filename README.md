@@ -57,3 +57,8 @@ Where possible, OpenCV will now use the default pthread or the TBB engine for pa
 We don't recommend it. Not all OpenCV algorithms automatically switch to pthread.<br/>
 Our advice is to import OpenCV into Python first before anything else.<br/>
 
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
+
