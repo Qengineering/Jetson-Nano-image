@@ -11,6 +11,7 @@
 - Download the image (**9.6 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1753wRCFUV7U6vJa3H5xC1cq5MIcGKwFm/view?usp=sharing) site. 
 - Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - Insert the SD card in your Jetson Nano **4 GB RAM** and enjoy.
+- Username: ***jetson***
 - Password: ***jetson***
 
 ------------
