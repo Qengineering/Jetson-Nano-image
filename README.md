@@ -8,7 +8,7 @@
 ## Installation.
 
 - Get a 32 GB (minimal) SD-card which will hold the image. 
-- Download the image (**9.6 GByte!**) from our [Gdrive](https://drive.google.com/file/d/1KuhWqE6Z98zCeownIaD0mQAwMLd7A9rI/view?usp=sharing) site. 
+- Download the image (**7.2 GByte!**) from our [Sync](https://ln5.sync.com/dl/4bdb25370/xewd7xqz-6khtpcs2-w7zais3c-8uqi2rcj) site. 
 - Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
 - According to [issue #17](https://github.com/Qengineering/Jetson-Nano-image/issues/17#) only flash the zip directly, not an unzipped img image.
 - Insert the SD card in your Jetson Nano **4 GB RAM** and enjoy.
