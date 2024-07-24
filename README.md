@@ -14,7 +14,7 @@
 - Insert the SD card in your Jetson Nano **4 GB RAM** and enjoy.
 - Username: ***jetson***
 - Password: ***jetson***
-- JetsonNano.zip md5sum: d186a59a0b4d95a3bb9a327feabbfa25
+- JetsonNano.img.xz md5sum: 621F2E4E0B7775E5293E2186C96E91AA
 
 ------------
 
