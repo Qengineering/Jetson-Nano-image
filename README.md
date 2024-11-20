@@ -16,11 +16,14 @@
 - Password: ***jetson***
 - JetsonNano.img.xz md5sum: 621F2E4E0B7775E5293E2186C96E91AA
 
+### GDrive.
+In some parts of the world, getting a good solid connection to Sync is difficult. That is why we've also provided a copy on [Google Drive](https://drive.google.com/file/d/1xSKJQX2uuLI-ewShU8LP8FROC6ozyiwo/view?usp=sharing). However, Google Drive limits the number of daily downloads, which is much lower than our average daily download volume. Please be considerate and use Google Drive only if necessary.
+
 ------------
 
 ## Tips.
 
-* If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD card. There are no longer needed since all libraries are placed in the /usr/ directory.
+* If you are in need of extra space, you can delete the opencv and the opencv_contrib folder from the SD card. They are no longer needed since all libraries are placed in the /usr/ directory.
 * Use a tool like [GParted](https://gparted.org/) `sudo apt-get install gparted` to expand the image to larger SD cards. We recommend a minimum of 64 GB. Deep learning simply requires a lot of space.<br/><br/>
 
 ------------
